@@ -1,0 +1,1 @@
+This is a simple PHP script which creates an image (using GD2) with random quote fetched from code.txt

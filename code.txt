@@ -1,0 +1,27 @@
+//@//
+if habs ( "gofer" ) then
+    give ( "sos", 2/0 )
+    posmaruj ( "sos", "gofer" )
+    print ( "smatchneho" )
+else
+    print ( "znajdz prace hipisie!" )
+end
+> Yamsha
+//@//
+if habs("ket") than
+    habs("pogiunte papry s tabuelturyom") = trueue
+ent
+> Yamsha
+//@//
+addEventHandler("onPlayerJoin", root, 
+function()
+    if getPlayerName(source) == "Dzakub" then
+        for k,v in pairs(getElementsByType("player")) do
+            outputChatBox(getPlayerName(v).. ": Hail Dzakub!", root)
+        end
+    end
+end)
+> Dzakub
+//@//
+outputChatBox("Dzakub bumi.")
+> Yamsha
