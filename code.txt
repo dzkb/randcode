@@ -23,5 +23,36 @@ function()
 end)
 > Dzakub
 //@//
-outputChatBox("Dzakub bumi.")
+  outputChatBox("Dzakub bumi.")
+> Yamsha
+//@//
+  "potfur nie potfur, byle mio³ otfur"
+> Yamsha
+//@//
+  - kurcze, ale Ty jestes monotematyczny :P
+    cz³owiek musi liznac chocia¿ wszystkiego po trochu
+    kryptologii te¿
+    ...
+    proktologii równie¿ ;_;
+> Jegomosc Dzakub, ostatni co tak proktologiê liza³.
+//@//
+  "tu kurwa baza odbiur"
+> GodOfSniping
+//@//
+  "Napiszmy rolpleja!"
+> Yamsha, opowiadaj¹c jeden ze swoich dowcipów
+//@//
+  "Strzelasz, giniesz, szybka akcja"
+> Glord o Call of Duty Multiplayer
+//@//
+  "po co siê spinaæ..... hemoglobina."
+> Xtreme
+//@//
+  "durny, czy z policji?"
+> Yamsha, Stachu, Arek, Turbin...
+//@//
+  "5/5, nie polecam"
+> Turbin
+//@//
+  "Czy Turek ma du¿o rurek?"
 > Yamsha

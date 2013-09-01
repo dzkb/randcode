@@ -1,5 +1,12 @@
 <?php
+/*
+	RandomCode v1
+	by Dzakub
+	released under MIT License
+*/
 header ('Content-Type: image/png');
+header("Cache-Control: no-cache, must-revalidate"); // HTTP/1.1
+header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
 $file_content = file_get_contents("code.txt");
 $codes = preg_split("/\/\/\@\/\//", $file_content);
 $r = rand(1,count($codes)-1);
